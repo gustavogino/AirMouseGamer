@@ -1,5 +1,5 @@
 # AirMouseGamer
-An FPS gaming controller using a 6050 MPU and an Analog Joystick controlled by an ESP32
+A FPS gaming controller using a 6050 MPU and an Analog Joystick controlled by an ESP32
 
 Ak Move = Contains files to upload to ESP
 
